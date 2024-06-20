@@ -1,4 +1,3 @@
-// Given an array of numbers, return an array which contains all the even numbers in the original array, which also have even indices.
 function getOnlyEvensWithIndices(arr) {
   let newArr = [];
   for (let i = 0; i < arr.length; i++) {
@@ -11,3 +10,4 @@ function getOnlyEvensWithIndices(arr) {
 console.log(getOnlyEvensWithIndices([1, 3, 2, 6, 4, 8]));
 console.log(getOnlyEvensWithIndices([0, 1, 2, 3, 4]));
 console.log(getOnlyEvensWithIndices([1, 2, 3, 4, 5]));
+
