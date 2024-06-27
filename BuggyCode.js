@@ -1,10 +1,8 @@
-function printArray(number) {
-    var newArray = [];
-  
-    for(var i = 1; i <= number; i++) {
-      newArray.push(i);
-    }
-  
-    return newArray;
-  }
-  console.log(printArray(5))
+// Mubashir wants to swap two given numbers!
+
+// It is not returning the right values. Can you help him fix it
+
+function swap (a, b) {
+  return ([a, b] = [b, a]);
+}
+console.log(swap(100, 200));
