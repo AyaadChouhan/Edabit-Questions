@@ -6,3 +6,4 @@ function swap (a, b) {
   return ([a, b] = [b, a]);
 }
 console.log(swap(100, 200));
+console.log(swap(100, 200));
