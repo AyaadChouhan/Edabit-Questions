@@ -6,3 +6,4 @@ function and(a, b) {
 	return false;
 }}
 console.log(and(true, false))
+console.log(and(false, false))
