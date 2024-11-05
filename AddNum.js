@@ -7,3 +7,6 @@ function num(value) {
 }
 console.log(num(4));
 
+
+console.log(num(5
+               ));
