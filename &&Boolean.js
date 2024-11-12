@@ -7,3 +7,5 @@ function and(a, b) {
 }}
 console.log(and(true, false))
 console.log(and(false, false))
+console.log(and(true, false))
+console.log(and(false, false))
