@@ -27,3 +27,4 @@ function ascDesNone(arr, str) {
 console.log(ascDesNone([4, 3, 2, 1], "Des"));
 console.log(ascDesNone([1,2,3,4], "Des"));
 console.log(ascDesNone([7, 8, 11, 66], "Des"));
+console.log(ascDesNone([7, 8, 11, 66], "Asc"));
